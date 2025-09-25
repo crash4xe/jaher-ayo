@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jaher-ayo/static/css/main.f2302b5e.css",
-    "main.js": "/jaher-ayo/static/js/main.cbc977da.js",
+    "main.js": "/jaher-ayo/static/js/main.3ed7444e.js",
     "index.html": "/jaher-ayo/index.html",
     "main.f2302b5e.css.map": "/jaher-ayo/static/css/main.f2302b5e.css.map",
-    "main.cbc977da.js.map": "/jaher-ayo/static/js/main.cbc977da.js.map"
+    "main.3ed7444e.js.map": "/jaher-ayo/static/js/main.3ed7444e.js.map"
   },
   "entrypoints": [
     "static/css/main.f2302b5e.css",
-    "static/js/main.cbc977da.js"
+    "static/js/main.3ed7444e.js"
   ]
 }
